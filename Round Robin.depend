@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656663484 source:f:\projects\c++\round robin\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
